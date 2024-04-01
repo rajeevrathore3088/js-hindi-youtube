@@ -8,7 +8,7 @@ console.log(3+3);
 let name = "ujjj"
 let isLoggedIn = false
 
-alll are the datatypes
+// alll are the datatypes
 // BigInt
 // String=> ""
 // Boolean => true/false
