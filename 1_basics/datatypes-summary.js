@@ -33,4 +33,27 @@ console.log(typeof scoreValue);
 
 
 
-// Array,Objects,functions
+// Array,Objects,functions1
+
+
+// stack memory is used in primitive type
+// Heap memory is used in Non-primitive
+
+let myYoutube = "rajeevlifts"
+
+let anothername = myYoutube
+anothername= "lifts"
+
+console.log(myYoutube);
+console.log(anothername);
+
+let user1={
+    // email:"user@google.com",   this all store in the heap memory
+    upi:"lift@ybl",
+}
+console.log(user1);
+
+// in heap the changes done in the original value
+// Heap means to give a ReferenceError
+
+
