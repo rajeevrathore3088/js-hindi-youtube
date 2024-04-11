@@ -42,7 +42,7 @@ console.log(typeof scoreValue);
 let myYoutube = "rajeevlifts"
 
 let anothername = myYoutube
-anothername= "lifts"
+anothername= "lift"
 
 console.log(myYoutube);
 console.log(anothername);
